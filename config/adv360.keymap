@@ -90,11 +90,11 @@
 
         layer_Symbols {
             bindings = <
- &trans     &trans         &trans            &trans     &trans                &trans            &trans  &trans             &trans         &trans     &trans      &trans           &trans  &trans
- &trans  &kp GRAVE  &kp LESS_THAN  &kp GREATER_THAN   &kp PLUS      &kp LEFT_BRACKET            &trans  &trans  &kp RIGHT_BRACKET  &kp AMPERSAND  &kp COLON  &kp DOLLAR  &kp NON_US_HASH  &trans
- &trans  &kp CARET   &kp ASTERISK   &kp EXCLAMATION  &kp EQUAL  &kp LEFT_PARENTHESIS            &trans  &trans             &trans                                &trans           &trans  &trans  &kp RIGHT_PARENTHESIS  &kp DOUBLE_QUOTES  &kp APOSTROPHE  &kp BACKSLASH  &kp HASH  &trans
- &trans   &kp PIPE      &kp SLASH       &kp PERCENT  &kp MINUS        &kp LEFT_BRACE            &trans  &trans             &trans         &trans     &trans      &trans           &trans  &trans        &kp RIGHT_BRACE       &kp QUESTION     &kp AT_SIGN      &kp TILDE    &trans  &trans
- &trans     &trans         &trans            &trans     &trans                &trans            &trans  &trans             &trans         &trans     &trans      &trans           &trans  &trans                 &trans             &trans
+ &trans                &trans            &trans            &trans     &trans                &trans            &trans  &trans             &trans         &trans     &trans      &trans     &trans  &trans
+ &trans  &kp NON_US_BACKSLASH     &kp LESS_THAN  &kp GREATER_THAN   &kp PLUS      &kp LEFT_BRACKET            &trans  &trans  &kp RIGHT_BRACKET  &kp AMPERSAND  &kp COLON  &kp DOLLAR  &kp PIPE2  &trans
+ &trans             &kp CARET      &kp ASTERISK   &kp EXCLAMATION  &kp EQUAL  &kp LEFT_PARENTHESIS            &trans  &trans             &trans                                &trans     &trans  &trans  &kp RIGHT_PARENTHESIS     &kp LSHFT    &kp APOSTROPHE  &kp GRAVE  &kp BACKSLASH  &trans
+ &trans             &kp TILDE  &kp SINGLE_QUOTE       &kp PERCENT  &kp MINUS        &kp LEFT_BRACE            &trans  &trans             &trans         &trans     &trans      &trans     &trans  &trans        &kp RIGHT_BRACE  &kp QUESTION  &kp SINGLE_QUOTE  &kp TILDE         &trans  &trans
+ &trans                &trans            &trans            &trans     &trans                &trans            &trans  &trans             &trans         &trans     &trans      &trans     &trans  &trans                 &trans        &trans
             >;
         };
 
