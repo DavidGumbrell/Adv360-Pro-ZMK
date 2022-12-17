@@ -91,10 +91,10 @@
         layer_Symbols {
             bindings = <
  &trans                &trans            &trans            &trans     &trans                &trans            &trans  &trans             &trans         &trans     &trans      &trans     &trans  &trans
- &trans  &kp NON_US_BACKSLASH     &kp LESS_THAN  &kp GREATER_THAN   &kp PLUS      &kp LEFT_BRACKET            &trans  &trans  &kp RIGHT_BRACKET  &kp AMPERSAND  &kp COLON  &kp DOLLAR  &kp PIPE2  &trans
- &trans             &kp CARET      &kp ASTERISK   &kp EXCLAMATION  &kp EQUAL  &kp LEFT_PARENTHESIS            &trans  &trans             &trans                                &trans     &trans  &trans  &kp RIGHT_PARENTHESIS     &kp LSHFT    &kp APOSTROPHE  &kp GRAVE  &kp BACKSLASH  &trans
- &trans             &kp TILDE  &kp SINGLE_QUOTE       &kp PERCENT  &kp MINUS        &kp LEFT_BRACE            &trans  &trans             &trans         &trans     &trans      &trans     &trans  &trans        &kp RIGHT_BRACE  &kp QUESTION  &kp SINGLE_QUOTE  &kp TILDE         &trans  &trans
- &trans                &trans            &trans            &trans     &trans                &trans            &trans  &trans             &trans         &trans     &trans      &trans     &trans  &trans                 &trans        &trans
+ &trans  &kp NON_US_BACKSLASH     &kp LESS_THAN  &kp GREATER_THAN   &kp PLUS      &kp LEFT_BRACKET            &trans  &trans  &kp RIGHT_BRACKET  &kp AMPERSAND  &kp COLON  &kp DOLLAR  &kp LS(NON_US_BACKSLASH)  &trans
+ &trans             &kp CARET      &kp ASTERISK   &kp EXCLAMATION  &kp EQUAL  &kp LEFT_PARENTHESIS            &trans  &trans  &kp RIGHT_PARENTHESIS     &kp LS(N2)    &kp APOSTROPHE  &kp GRAVE  &kp BACKSLASH  &trans
+ &trans             &kp TILDE  &kp SINGLE_QUOTE       &kp PERCENT  &kp MINUS        &kp LEFT_BRACE            &trans  &trans             &kp RIGHT_BRACE  &kp QUESTION  &kp LS(SINGLE_QUOTE)  &kp PIPE         &trans  &trans
+ &trans                &trans            &trans            &trans     &trans                &trans            &trans  &trans             &trans  &trans                 &trans        &trans
             >;
         };
 
