@@ -120,7 +120,7 @@
 		&trans		&trans				&trans			&trans			&trans			&trans				&trans																												&trans					&trans				&trans			&trans			&trans			&trans			&trans
 		&trans		&kp NUBS			&kp LT			&kp GT			&kp PLUS		&kp LEFT_BRACKET	&trans																												&trans					&kp RBKT			&kp AMPERSAND	&kp COLON		&kp DOLLAR		&kp LS(NUBS)	&trans
 		&trans		&kp CARET			&kp ASTERISK	&kp EXCL		&kp EQUAL		&kp LPAR			&trans						&trans				&trans								&trans		&trans				&trans					&kp RPAR			&kp LS(N2)		&kp SQT			&kp GRAVE		&kp BACKSLASH	&trans
-		&trans		&kp TILDE 			&kp BLSH		&kp PERCENT		&kp MINUS		&kp LEFT_BRACE		&trans						&trans				&trans		&trans		&trans		&trans		&trans				&trans					&kp RBRC			&kp QMARK		&kp LS(SQT)		&kp PIPE		&trans			&trans
+		&trans		&kp TILDE 			&kp BSLH		&kp PERCENT		&kp MINUS		&kp LEFT_BRACE		&trans						&trans				&trans		&trans		&trans		&trans		&trans				&trans					&kp RBRC			&kp QMARK		&kp LS(SQT)		&kp PIPE		&trans			&trans
 		&trans		&trans				&trans			&trans			&trans			&trans				&trans											&trans								&trans		&trans				&trans										&trans			&trans			&trans			&trans			&trans
             >;
         };
